@@ -1,0 +1,3 @@
+paracetamol,500,mg
+Norfloxacin,400,mg
+Levofloxacin Eye ,0.5,percent
